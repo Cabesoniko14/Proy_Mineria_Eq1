@@ -33,6 +33,14 @@ CALL gds.graph.create('pinturasYArtistas', ['Artista', 'Pintura'], ['PINTADA_POR
 
 CALL gds.pageRank.stream('pinturasYArtistas') YIELD nodeId, score RETURN gds.util.asNode(nodeId).nombre AS nombre, score ORDER BY score DESC, nombre ASC</code></pre>
 
+Ejemplo de un cuadro de comentarios
+
+> **¡Antes de empezar!** Es importante que tengas prendida tu instancia de AWS y Docker prendido. Decidimos dejar de fuera un inicio de sesión directo con AWS en Python para no comprometer credenciales en el código.
+
+Ejemplo de cajitas para variables
+
+Variable: <code>pajarito_verde</code>
+
 
 ## Parte 2
 
