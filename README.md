@@ -19,7 +19,39 @@ Integrantes del equipo:
   -  [Subtema 1](#Subtema-1) 
   -  [Subtema 2](#Subtema-2) 
 
-## Parte 1
+### Definición del problema
+
+Definir tan claro como sea posible. Se puede enriquecer con la definición de objetivos generales y específicos, si los hay.
+
+### Objetivo general
+
+## Objetivos específicos
+
+
+
+
+## Alcances y limitaciones
+
+En la medida de lo posible, tratar de definir el scoping (lo refinaremos para la segunda presentación). Definir alcances y limitaciones.
+
+**Imporante:** Qué vamos a hacer y qué no vamos a hacer.
+
+## Datos
+
+Presentar su primera revisión de los datos.
+ - **Origen:** de dónde se consiguieron los datos, quién los juntó y con qué fin
+ - **Forma:** si es tabular, o son imágenes, perfiles de imágenes, series de tiempo, etc.
+ - **Tamaño de la base de datos:** cuál es el *número de registros*, cuál es el *número de variables*
+ - **Tipo de variables:** numéricos, categóricos, etc.
+ - **Datos faltantes:** dónde, cuántos, qué se harán con ellos
+
+## Referencias
+
+ - Incluir libros, artículos, URLs.
+ - Si hay algún artículo donde se describa el problema, o donde ya se haya resuelto
+ - De dónde salieron los datos
+
+## Format dump
 
 Texto
 
@@ -42,19 +74,6 @@ Ejemplo de cajitas para variables
 Variable: <code>pajarito_verde</code>
 
 
-## Parte 2
 
-Texto
 
-## Parte 3
-
-Texto
-
-### Subtema 1
-
-Texto
-
-### Subtema 2
-
-Texto
 
