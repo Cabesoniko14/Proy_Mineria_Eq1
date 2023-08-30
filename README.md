@@ -2,8 +2,9 @@
 
 <img src="md_format/pajarito.jpg" alt="Pajarito" style="width:400px; height:250px;">
 
+Trabajo del semestre Otoño 2023, ITAM.
 
-Integrantes del equipo:
+Integrantes del **Equipo 1**:
   - Isaac Pimentel
   - David González
   - Javier Nieto
