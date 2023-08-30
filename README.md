@@ -14,22 +14,21 @@ Integrantes del **Equipo 1**:
 
 ## Índice
 
-- [Parte 1](#Parte-1)
-- [Parte 2](#Parte-2)
-- [Parte 3](#Parte-3)
-  -  [Subtema 1](#Subtema-1) 
-  -  [Subtema 2](#Subtema-2) 
+- [Definición del problema](#Definición-del-problema)
+  - [Objetivo general](#Objetivo-general)
+  - [Objetivos específicos](#Objetivos-específicos) 
+- [Alcances y limitaciones](#Alcances-y-limitaciones)
+- [Datos](#Datos)
+- [Referencias](#Referencias)
+- [Format dump](#Format-dump)
 
-### Definición del problema
+## Definición del problema
 
 Definir tan claro como sea posible. Se puede enriquecer con la definición de objetivos generales y específicos, si los hay.
 
 ### Objetivo general
 
-## Objetivos específicos
-
-
-
+### Objetivos específicos
 
 ## Alcances y limitaciones
 
