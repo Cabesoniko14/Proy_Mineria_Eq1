@@ -23,6 +23,17 @@ Integrantes del equipo:
 
 Texto
 
+Code snippet
+
+<pre> <code id="codeSnippet"># Ejecutar en la interfaz:
+
+CALL gds.graph.create('pinturasYArtistas', ['Artista', 'Pintura'], ['PINTADA_POR']) YIELD graphName AS graph, nodeProjection, nodeCount AS nodes, relationshipCount AS rels;
+
+# Luego, ejecturar:
+
+CALL gds.pageRank.stream('pinturasYArtistas') YIELD nodeId, score RETURN gds.util.asNode(nodeId).nombre AS nombre, score ORDER BY score DESC, nombre ASC</code></pre>
+
+
 ## Parte 2
 
 Texto
