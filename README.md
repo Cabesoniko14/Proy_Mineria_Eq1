@@ -1,6 +1,6 @@
 # Proyecto Minería de Datos: sonidos de aves
 
-<img src="md_format/pagarito.png" alt="Pajarito" style="width:400px; height:300px;">
+<img src="md_format/pajarito.jpg" alt="Pajarito" style="width:400px; height:300px;">
 
 
 Integrantes del equipo:
